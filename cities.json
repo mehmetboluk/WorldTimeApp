@@ -1,0 +1,50 @@
+{
+  "cities": [
+    "Istanbul",
+    "London",
+    "Vienna",
+    "Athens",
+    "Maldives",
+    "Mumbai",
+    "Reykjavik",
+    "Rio",
+    "NewYork",
+    "Boston"
+  ],
+  "timezone": [
+    "+3",
+    "+0",
+    "+1",
+    "+2",
+    "+4",
+    "+5",
+    "-1",
+    "-2",
+    "-3",
+    "-4"
+  ],
+  "colors": [
+    "DarkSalmon",
+    "Salmon",
+    "LightSalmon",
+    "Orange",
+    "DarkOrange",
+    "Coral",
+    "LightCoral",
+    "Tomato",
+    "OrangeRed",
+    "Red"
+  ],
+  "colorscode": [
+  "#e9967a",  
+  "#fa8072",
+  "#ffa07a",
+  "#ffa500",
+  "#ff8c00",
+  "#ff7f50",
+  "#f08080",
+  "#ff6347",
+  "#ff4500",
+  "#ff0000"
+  ]
+  }
